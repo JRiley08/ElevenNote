@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.WebMVC", "ElevenNote.WebMVC\ElevenNote.WebMVC.csproj", "{E9CD98EE-AE4E-49FA-ABE5-AB1FF56E20BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9CD98EE-AE4E-49FA-ABE5-AB1FF56E20BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CD98EE-AE4E-49FA-ABE5-AB1FF56E20BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9CD98EE-AE4E-49FA-ABE5-AB1FF56E20BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9CD98EE-AE4E-49FA-ABE5-AB1FF56E20BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8F2D7B1-34CA-4716-8267-2998E04E5EBD}
+	EndGlobalSection
+EndGlobal
